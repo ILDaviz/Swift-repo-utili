@@ -5,6 +5,8 @@ Una mia lista personale di repository interessanti Swift
 ## Repo liste app
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps#open-source-ios-apps)
 - [Open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+
+## Corsi e aggregati come questa lista
 - [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 - [SwiftUIGuide](https://github.com/Jinxiansen/SwiftUI) Con anche le immagini per ogni metodo!
 - [SwiftUI Examples](https://github.com/varabeis/SwiftUI) Una lista di app esempio o elelemtni grafici
