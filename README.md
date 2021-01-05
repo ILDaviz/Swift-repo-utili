@@ -36,12 +36,13 @@ Una mia lista personale di repository interessanti Swift
 - [Shiny](https://github.com/maustinstar/shiny) Aggiungi texture basate sul movimento alle tue visualizzazioni SwiftUI sui testi è wow!!!!
 - [Liquid](https://github.com/maustinstar/liquid) Aggiunge un effetto acqua nelle interfaccie swiftui
 - [List-Pagination-SwiftUI](https://github.com/crelies/List-Pagination-SwiftUI) Utile per creare il caricatore fondo pagina nelle liste
-
+- [Katana-swift](https://github.com/BendingSpoons/katana-swift)
 
 
 ## Framework Interessanti
 - [Vapor](https://github.com/vapor/vapor) Vopor è un fw per la creazione di server web online con gestione a route
 - [Kitura](https://github.com/Kitura/Kitura) Kitura è un fw per la creazione di server web online con gestione a route
+- [Tempura-swift](https://github.com/BendingSpoons/tempura-swift) Framework MVVC costruito su Katana
 
 ## Utility scritte in swift
 - [Pock](https://github.com/pigigaldi/Pock) App per usare la Touch Bar come un Dock delle app 
