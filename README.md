@@ -27,6 +27,7 @@ Una mia lista personale di repository interessanti Swift
 - [Defaults](https://github.com/sindresorhus/Defaults) Archivia le coppie chiave-valore in modo persistente durante i lanci della tua app. (Molto interessante 👌)
 - [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) Semplifica l'accesso al cloudkit di apple.
 - [Octokit](https://github.com/nerdishbynature/octokit.swift) Api client scritto in Swift Octokit supporta sia GitHub che GitHub Enterprise
+- [GithubAPI](https://github.com/serhii-londar/GithubAPI) Api client scritto in Swift Octokit supporta sia GitHub che GitHub Enterprise
 - [FloatingButton](https://github.com/exyte/FloatingButton) Comodissimo per creare dei pulsanti float in modo semplice semplice
 - [Swiftui-charts](https://github.com/spacenation/swiftui-charts) Crea grafici personalizzati con SwiftUI
 - [Swiftui-sliders](https://github.com/spacenation/swiftui-sliders) Per creare i sliders personalizzati in modo facile
